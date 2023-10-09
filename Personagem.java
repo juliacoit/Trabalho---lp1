@@ -47,11 +47,11 @@ public class Personagem extends ObjetoBase {
         } else if (tempoDeVida == 3) {
             return 💛;
         } else if (tempoDeVida == 2) {
-            return 🤍;
+            return ❤️‍🩹;
         } else if (tempoDeVida == 1) {
-            return 🖤;
-        } else if (tempoDeVida < 1){
             return 💔;
+        } else if (tempoDeVida < 1){
+            return ☠️;
         }
     }
     
