@@ -3,3 +3,6 @@
         return m; 
     }
 } */ 
+public interface InterfaceInteracao {
+    public interagir(boolean Mapa = m)
+}
