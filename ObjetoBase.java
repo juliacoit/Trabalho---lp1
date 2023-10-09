@@ -26,4 +26,5 @@ class ObjetoBase {
         this.posicaoY = nova_posicaoY;        
     };
 
+
 }

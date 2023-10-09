@@ -1,6 +1,6 @@
 public class Personagem extends ObjetoBase {
     
-    private int tempoDeVida;
+    private int tempoDeVida = 5;
     private int score = 0;
     
     public Personagem(String id) {
